@@ -1,0 +1,17 @@
+body{
+background-image:url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2019%2F07%2F17140016%2Fbeet-double-chocmuffins_0.jpg&q=85");
+}
+ul a {
+
+}
+
+#card-element{
+  display:flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+#explore{
+  width: 40rem;
+  margin-top: 4%;
+}

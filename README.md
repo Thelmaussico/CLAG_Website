@@ -1,1 +1,2 @@
-# CLAG_Website
+# CLAG_competition_website
+ A_website_for_CLAG_competition_website
